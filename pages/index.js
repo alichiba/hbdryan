@@ -25,7 +25,7 @@ export default function Home() {
         <div className="pt-52 pb-24">
           <div className={noto.className}>
             <p className="text-white text-lg max-w-2xl">Dear Ryan,<br/><br/>
-            Hope you have a happy 20th birthday! <br/>Last year, I was up early in the morning to "make" you a birthday website for fun cause I thought you might like it. Now we're together and I have a feeling we will be celebrating together much more so I thought why not make it a tradition. You are so amazing and you make me happy all the time. I think you are so special and hope all your aspirations come true in the future cause you deserve it :) Enjoy being in your twenties and all your upcoming adventures! 
+            Hope you have a happy 20th birthday! <br/>Last year, I was up early in the morning to &quot;make&quot; you a birthday website for fun cause I thought you might like it. Now we&apos;re together and I have a feeling we will be celebrating together much more so I thought why not make it a tradition. You are so amazing and you make me happy all the time. I think you are so special and hope all your aspirations come true in the future cause you deserve it :) Enjoy being in your twenties and all your upcoming adventures! 
             <br/><br/>Love, Alison &lt;3</p>
           </div>
         </div>
